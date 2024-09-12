@@ -32,7 +32,6 @@ def train_model(data_file='data/chengalpattu_pests.csv'):
     
     # Print the accuracy score
     accuracy = accuracy_score(y_test, y_pred)
-    print(f"Model accuracy: {accuracy * 100:.2f}%")
     
     return rf_model
 
