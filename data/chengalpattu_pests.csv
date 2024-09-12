@@ -1,0 +1,9 @@
+Location,Soil_Moisture,Temperature,Weather_Condition,Pest_Type
+Chengalpattu,30,25,Humid,Whitefly
+Chengalpattu,35,30,Humid,Aphid
+Chengalpattu,40,35,Dry,Spider Mite
+Chengalpattu,25,28,Humid,Root Nematode
+Chengalpattu,20,33,Dry,Cutworm
+Chengalpattu,45,29,Rainy,Whitefly
+Chengalpattu,42,30,Dry,Spider Mite
+Chengalpattu,28,27,Humid,Aphid
